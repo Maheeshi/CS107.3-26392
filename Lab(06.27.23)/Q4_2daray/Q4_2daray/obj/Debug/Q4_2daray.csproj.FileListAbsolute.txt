@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q4_2daray\Q4_2daray\bin\Debug\Q4_2daray.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q4_2daray\Q4_2daray\bin\Debug\Q4_2daray.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q4_2daray\Q4_2daray\bin\Debug\Q4_2daray.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q4_2daray\Q4_2daray\obj\Debug\Q4_2daray.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q4_2daray\Q4_2daray\obj\Debug\Q4_2daray.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q4_2daray\Q4_2daray\obj\Debug\Q4_2daray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q4_2daray\Q4_2daray\obj\Debug\Q4_2daray.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q4_2daray\Q4_2daray\obj\Debug\Q4_2daray.pdb

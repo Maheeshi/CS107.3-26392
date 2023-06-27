@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\10elemnts\10elemnts\obj\Debug\10elemnts.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\10elemnts\10elemnts\obj\Debug\10elemnts.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\10elemnts\10elemnts\obj\Debug\10elemnts.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\10elemnts\10elemnts\bin\Debug\10elemnts.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\10elemnts\10elemnts\bin\Debug\10elemnts.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\10elemnts\10elemnts\bin\Debug\10elemnts.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\10elemnts\10elemnts\obj\Debug\10elemnts.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\10elemnts\10elemnts\obj\Debug\10elemnts.pdb

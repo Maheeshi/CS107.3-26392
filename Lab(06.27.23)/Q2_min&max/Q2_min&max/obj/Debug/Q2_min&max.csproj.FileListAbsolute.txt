@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q2_min&max\Q2_min&max\bin\Debug\Q2_min&max.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q2_min&max\Q2_min&max\bin\Debug\Q2_min&max.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q2_min&max\Q2_min&max\bin\Debug\Q2_min&max.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q2_min&max\Q2_min&max\obj\Debug\Q2_min&max.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q2_min&max\Q2_min&max\obj\Debug\Q2_min&max.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q2_min&max\Q2_min&max\obj\Debug\Q2_min&max.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q2_min&max\Q2_min&max\obj\Debug\Q2_min&max.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Arrays\Q2_min&max\Q2_min&max\obj\Debug\Q2_min&max.pdb
