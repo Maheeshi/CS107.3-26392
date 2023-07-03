@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q3_summation\Q3_summation\bin\Debug\Q3_summation.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q3_summation\Q3_summation\bin\Debug\Q3_summation.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q3_summation\Q3_summation\bin\Debug\Q3_summation.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q3_summation\Q3_summation\obj\Debug\Q3_summation.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q3_summation\Q3_summation\obj\Debug\Q3_summation.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q3_summation\Q3_summation\obj\Debug\Q3_summation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q3_summation\Q3_summation\obj\Debug\Q3_summation.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q3_summation\Q3_summation\obj\Debug\Q3_summation.pdb

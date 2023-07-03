@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q4_salary\Q4_salary\bin\Debug\Q4_salary.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q4_salary\Q4_salary\bin\Debug\Q4_salary.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q4_salary\Q4_salary\bin\Debug\Q4_salary.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q4_salary\Q4_salary\obj\Debug\Q4_salary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q4_salary\Q4_salary\obj\Debug\Q4_salary.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q4_salary\Q4_salary\obj\Debug\Q4_salary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q4_salary\Q4_salary\obj\Debug\Q4_salary.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q4_salary\Q4_salary\obj\Debug\Q4_salary.pdb

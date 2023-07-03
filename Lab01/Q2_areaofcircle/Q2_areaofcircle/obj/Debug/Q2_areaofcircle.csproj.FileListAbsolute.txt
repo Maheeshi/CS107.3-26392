@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_areaofcircle\Q2_areaofcircle\bin\Debug\Q2_areaofcircle.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_areaofcircle\Q2_areaofcircle\bin\Debug\Q2_areaofcircle.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_areaofcircle\Q2_areaofcircle\bin\Debug\Q2_areaofcircle.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_areaofcircle\Q2_areaofcircle\obj\Debug\Q2_areaofcircle.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_areaofcircle\Q2_areaofcircle\obj\Debug\Q2_areaofcircle.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_areaofcircle\Q2_areaofcircle\obj\Debug\Q2_areaofcircle.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_areaofcircle\Q2_areaofcircle\obj\Debug\Q2_areaofcircle.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_areaofcircle\Q2_areaofcircle\obj\Debug\Q2_areaofcircle.pdb

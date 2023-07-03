@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q1_name&batch\Q1_name&batch\bin\Debug\Q1_name&batch.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q1_name&batch\Q1_name&batch\bin\Debug\Q1_name&batch.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q1_name&batch\Q1_name&batch\bin\Debug\Q1_name&batch.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q1_name&batch\Q1_name&batch\obj\Debug\Q1_name&batch.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q1_name&batch\Q1_name&batch\obj\Debug\Q1_name&batch.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q1_name&batch\Q1_name&batch\obj\Debug\Q1_name&batch.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q1_name&batch\Q1_name&batch\obj\Debug\Q1_name&batch.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q1_name&batch\Q1_name&batch\obj\Debug\Q1_name&batch.pdb
