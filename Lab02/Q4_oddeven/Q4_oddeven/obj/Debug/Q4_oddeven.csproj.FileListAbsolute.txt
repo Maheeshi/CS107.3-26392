@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\Q4_oddeven\Q4_oddeven\bin\Debug\Q4_oddeven.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\Q4_oddeven\Q4_oddeven\bin\Debug\Q4_oddeven.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\Q4_oddeven\Q4_oddeven\bin\Debug\Q4_oddeven.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\Q4_oddeven\Q4_oddeven\obj\Debug\Q4_oddeven.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\Q4_oddeven\Q4_oddeven\obj\Debug\Q4_oddeven.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\Q4_oddeven\Q4_oddeven\obj\Debug\Q4_oddeven.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\Q4_oddeven\Q4_oddeven\obj\Debug\Q4_oddeven.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\Q4_oddeven\Q4_oddeven\obj\Debug\Q4_oddeven.pdb

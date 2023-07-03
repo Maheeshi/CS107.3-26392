@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_Arithmeticopeartions\Q2_Arithmeticopeartions\bin\Debug\Q2_Arithmeticopeartions.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_Arithmeticopeartions\Q2_Arithmeticopeartions\bin\Debug\Q2_Arithmeticopeartions.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_Arithmeticopeartions\Q2_Arithmeticopeartions\bin\Debug\Q2_Arithmeticopeartions.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_Arithmeticopeartions\Q2_Arithmeticopeartions\obj\Debug\Q2_Arithmeticopeartions.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_Arithmeticopeartions\Q2_Arithmeticopeartions\obj\Debug\Q2_Arithmeticopeartions.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_Arithmeticopeartions\Q2_Arithmeticopeartions\obj\Debug\Q2_Arithmeticopeartions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_Arithmeticopeartions\Q2_Arithmeticopeartions\obj\Debug\Q2_Arithmeticopeartions.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab01\Q2_Arithmeticopeartions\Q2_Arithmeticopeartions\obj\Debug\Q2_Arithmeticopeartions.pdb

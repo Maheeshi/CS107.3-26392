@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\area&circumference\area&circumference\bin\Debug\area&circumference.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\area&circumference\area&circumference\bin\Debug\area&circumference.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\area&circumference\area&circumference\bin\Debug\area&circumference.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\area&circumference\area&circumference\obj\Debug\area&circumference.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\area&circumference\area&circumference\obj\Debug\area&circumference.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\area&circumference\area&circumference\obj\Debug\area&circumference.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\area&circumference\area&circumference\obj\Debug\area&circumference.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab02\area&circumference\area&circumference\obj\Debug\area&circumference.pdb
