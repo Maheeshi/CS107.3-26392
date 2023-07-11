@@ -1,0 +1,3 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab (07.11.23)\Q1_Encapsulation\Q1_Encapsulation\obj\Debug\Q1_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab (07.11.23)\Q1_Encapsulation\Q1_Encapsulation\obj\Debug\Q1_Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lab (07.11.23)\Q1_Encapsulation\Q1_Encapsulation\obj\Debug\Q1_Encapsulation.csproj.CoreCompileInputs.cache
