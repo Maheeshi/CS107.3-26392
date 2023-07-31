@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lecture(7.13.23)\Q1\Q1\bin\Debug\Q1.exe.config
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lecture(7.13.23)\Q1\Q1\bin\Debug\Q1.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lecture(7.13.23)\Q1\Q1\bin\Debug\Q1.pdb
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lecture(7.13.23)\Q1\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lecture(7.13.23)\Q1\Q1\obj\Debug\Q1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lecture(7.13.23)\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lecture(7.13.23)\Q1\Q1\obj\Debug\Q1.exe
+C:\Users\HP\Desktop\NSBM\Year 1\Semester 2\C#\Coding\Lecture(7.13.23)\Q1\Q1\obj\Debug\Q1.pdb
